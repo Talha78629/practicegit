@@ -1,0 +1,24 @@
+h1{
+    color: rgb(231, 79, 24);
+}
+.para{
+    color: blue;
+}
+#btn{
+background-color: rgb(138, 197, 123);
+}
+#btn:hover{
+color: rgb(243, 243, 243);
+}
+h1:hover{
+    color: mediumspringgreen;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #ccc;
+    background-image: url("https://img.emg-services.net/htmlpages/htmlpage2067/untitled-design-71.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
